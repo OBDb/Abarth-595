@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation"
+    start_year: 2012
+    end_year: 2015
+    description: "The first generation Abarth 595 was introduced as a more powerful variant of the Abarth 500, featuring a 1.4L T-Jet turbocharged engine producing 160 HP in the Turismo trim and 180 HP in the Competizione trim. It offered sportier suspension, upgraded brakes, and more aggressive styling compared to the standard Abarth 500."
+
+  - name: "Second Generation (Facelift)"
+    start_year: 2016
+    end_year: 2019
+    description: "The facelifted Abarth 595 received visual updates including revised front and rear fascias, updated interior technology, and mechanical refinements. This generation continued with various power outputs including the Turismo and Competizione variants, with the latter pushing up to 180 HP. Special editions like the Pista and Esseesse were also introduced during this period."
+
+  - name: "Third Generation"
+    start_year: 2020
+    end_year: null
+    description: "The latest generation of the Abarth 595 features further refinements to the formula with updated technology and equipment. It continues to be offered in multiple trim levels including the base 595 (145 HP), Turismo (165 HP), and Competizione (180 HP). The Esseesse variant sits at the top of the range with additional performance parts including a limited-slip differential, Sabelt seats, and a Record Monza exhaust system."
